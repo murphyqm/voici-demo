@@ -6,3 +6,6 @@ dependencies:
   - xeus-python
   - pandas <2
   - bqplot
+  - matplotlib
+  - seaborn
+  - numpy
